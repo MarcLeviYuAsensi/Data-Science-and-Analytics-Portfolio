@@ -5,3 +5,5 @@ This repository contains activities, projects, and vizualizations from the Data 
 This goal of this project was to gather information on the most profitable/least profitable days and best/worst performing menu items.
 
 Deliver insights about adding/removing menu items and repurposing their ingredients to existing items that are performing better.
+
+You can find the Tableau Visual [here](https://public.tableau.com/app/profile/marc.levi.yu.asensi/viz/BakerySalesKPI/DigitalDash).
