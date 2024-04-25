@@ -18,4 +18,5 @@ Goal: Clean and Normalize Data from forms and build a dashboard for Quality Assu
 
 You can find the Tableau Dashboards [here](https://public.tableau.com/app/profile/marc.levi.yu.asensi/viz/ChartAudits/ProgressNoteQASummary).
 
-## 
+## Machine Learning Models Exploration
+Goal: Try building different regression models to predict the Age of an Abalone
