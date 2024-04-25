@@ -19,4 +19,4 @@ Goal: Clean and Normalize Data from forms and build a dashboard for Quality Assu
 You can find the Tableau Dashboards [here](https://public.tableau.com/app/profile/marc.levi.yu.asensi/viz/ChartAudits/ProgressNoteQASummary).
 
 ## Regression Models Exploration
-Goal: Try building different regression models to predict the Age of an Abalone
+Goal: Build and explore Regression Models. The model's output would provide estimates of the age of abalone, typically measured in terms of its diameter or weight, based on the input features provided.
